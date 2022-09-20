@@ -16,3 +16,9 @@
 
 <button type="button" onclick='document.getElementById("demo").innerHTML = "Hello JavaScript!"'>Click Me!</button> 
 ```
+
+
+- [ ] Follow the instructions
+- [ ] Do the thing
+- [ ] Refresh the page
+- [ ] Check the thing worked
